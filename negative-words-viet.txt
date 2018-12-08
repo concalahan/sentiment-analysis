@@ -1,0 +1,2631 @@
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+; 
+; Opinion Lexicon: Positive
+;
+; This file contains a list of POSITIVE opinion words (or sentiment words).
+;
+; This file and the papers can all be downloaded from 
+;    http://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html
+;
+; If you use this list, please cite one of the following two papers:
+;
+;   Minqing Hu and Bing Liu. "Mining and Summarizing Customer Reviews." 
+;       Proceedings of the ACM SIGKDD International Conference on Knowledge 
+;       Discovery and Data Mining (KDD-2004), Aug 22-25, 2004, Seattle, 
+;       Washington, USA, 
+;   Bing Liu, Minqing Hu and Junsheng Cheng. "Opinion Observer: Analyzing 
+;       and Comparing Opinions on the Web." Proceedings of the 14th 
+;       International World Wide Web conference (WWW-2005), May 10-14, 
+;       2005, Chiba, Japan.
+;
+; Notes: 
+;    1. The appearance of an opinion word in a sentence does not necessarily  
+;       mean that the sentence expresses a positive or negative opinion. 
+;       See the paper below:
+;
+;       Bing Liu. "Sentiment Analysis and Subjectivity." An chapter in 
+;          Handbook of Natural Language Processing, Second Edition, 
+;          (editors: N. Indurkhya and F. J. Damerau), 2010.
+;
+;    2. You will notice many misspelled words in the list. They are not 
+;       mistakes. They are included as these misspelled words appear 
+;       frequently in social media content. 
+;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+2 mặt
+a dua
+an toàn
+bao
+bao gồm
+bao vây
+bash
+bay
+bay hơi
+bi ai
+bi kịch
+bi quan
+bi thảm
+biếm họa
+biến chứng
+biến dạng
+biến thái
+biến động
+biệt hóa
+blah
+bom
+bong tróc
+bs
+buông
+buồn
+buồn bã
+buồn chán
+buồn cười
+buồn nôn
+buồn rầu
+buồn tẻ
+buổi tối
+buộc tội
+bàng hoàng
+bá quyền
+bá đạo
+bác bỏ
+bám
+bán chậm
+bán phá giá
+bán thân
+báng bổ
+báo thù
+báo thức
+báo trước
+báo động
+bãi
+bãi rác
+bão tố
+béo
+bên lề
+bêu xấu
+bình minh
+bình thường
+bí mật
+bí đao
+bí ẩn
+bò cái
+bitch
+bò đực
+bóng cứng
+bóng ma
+bóng nhờn
+bóng tối
+bóp méo
+bóp nghẹt
+bôi
+bùn
+bùng lên
+bùng nổ
+bùng phát
+băn khoăn
+băng
+bĩu môi
+bơ phờ
+bướng bỉnh
+bạo chúa
+bảo trợ
+bấp bênh
+bất an
+bất bình
+bất bình đẳng
+bất chính
+bất chấp
+bất công
+bất cẩn
+bất cập
+bất hòa
+bất hạnh
+bất hợp lý
+bất hợp pháp
+bất hợp tác
+bất lương
+bất lịch sự
+bất lợi
+bất lực
+bất mãn
+bất ngờ
+bất thành
+bất thường
+bất tiện
+bất tài
+bất đắc dĩ
+bất đồng
+bất đồng chính kiến
+bất đồng quan điểm
+bất đồng ý kiến
+bất động
+bất ổn
+bầm tím
+bầy
+bẩm sinh
+bẩn
+bẩn quá
+bẩn thỉu
+bẩy
+bẫy
+bậc thứ hai
+bận rộn
+bận tâm
+bắn phá
+bắn tung tóe
+bắt buộc
+bắt nạt
+bế tắc
+bến cảng
+bể nát ra
+bệnh
+bệnh dại
+bệnh hoạn
+bệnh sởi
+bệnh tiểu đường
+bệnh tật
+bỉm
+bị
+bóp méo
+che khuất
+chặn
+chỉ trích
+cô lập
+cản trở
+cắt xén
+giết
+hút
+hại
+hỏng
+hủy hoại
+kiện
+kích thích
+làm phiền
+lôi kéo
+lỗi
+lừa
+móp
+mắc bẫy
+mắc kẹt
+mờ
+nguyền rủa
+nhiễm bệnh
+nhiễm khuẩn
+nhoè
+quỷ ám
+rơi
+tai tiếng
+thương
+tra tấn
+tắc
+tịch thu
+va đập
+vênh
+xỉn màu
+áp đảo
+ô nhiễm
+đánh
+đẩy lùi
+đốt cháy
+ảnh hưởng
+bọc đường
+bỏ
+bỏ bê
+bỏ bơ vơ
+bỏ học
+bỏ lỡ
+bỏ mặc
+bỏ qua
+bỏ sót
+bỏ thai
+bỏ trốn
+bỏ tù
+bỏ xót
+bỏ đi
+bỏng
+bốc đồng
+bối rối
+bồn chồn
+bồn rửa
+bộ xương
+bộc phát
+bục giảng
+bụi bẩn
+bụi bặm
+bức hại
+bừa
+bừa bãi
+bữa tối
+bực bội
+bực mình
+bực tức
+ca ngợi
+ca tụng
+calumny
+cam chịu
+cam thảo
+can ngăn
+can thiệp
+cau có
+cay xè
+cay đắng
+chanh
+chao đảo
+che chở
+che khuất
+cheesy
+chi tiêu
+chia
+chia ra
+chia rẽ
+chia tay
+chia tách
+chim sẻ
+chim ưng
+chinh phục
+chintzy
+chiên
+chiếm đoạt
+chiến lợi phẩm
+chiến sự
+chiến thắng
+chiến đấu
+chiếu lệ
+cho ăn bằng thìa
+choppy
+choáng
+choáng ngợp
+choáng váng
+chua
+chua cay
+chua chát
+chung thủy
+chuyên chế
+chuyên quyền
+chuyến đi
+chuôi
+chuột chù
+chuột rút
+chà đạp
+chào hàng
+chán
+chán ghét
+chán nản
+châm
+châm biếm
+châm chích
+chém
+chê
+chê bai
+chênh vênh
+chìm
+chích
+chịch
+chó cái
+chói mắt
+chói tai
+chóng mặt
+chùn bước
+chùng
+chùng xuống
+chúa ơi
+chăm chỉ
+chơi khăm
+chơi quá sức
+chưa giải quyết
+chưa hoàn thiện
+chưa hoàn thành
+chưa quyết định
+chưa trưởng thành
+chưa xong
+chưa xác định
+chưa được chứng minh
+chưa được kiểm tra
+chưa được xác nhận
+chạy trốn
+chạy xuống
+chảo
+chảy máu
+chảy nước
+chảy xệ
+chấn thương
+chất kích thích
+chất lượng
+chất nhờn
+chất thải
+chất độc
+chần chừ
+chậm
+chậm chạp
+chậm hơn
+chậm lại
+chậm nhất
+chậm phát triển
+chậm rãi
+chậm trễ
+chật chội
+chắc chắn
+chắc chắn xảy ra
+chế giễu
+chế nhạo
+chế tạo
+chế độ chuyên quyền
+chết
+chết cứng
+chết lặng
+chết người
+chết tiệt
+chết đuối
+chết đói
+chỉ trích
+chịu
+chịu khó
+chịu thua
+chịu trách nhiệm
+chịu đựng
+chối bỏ
+chống
+chống bán
+chống chiếm đóng
+chống chúng tôi
+chống israeli
+chống lại
+chống mỹ
+chống phổ biến
+chống trắng
+chống xã hội
+chụp ảnh
+chủ nghĩa cơ bản
+chủ nghĩa cực đoan
+chủ nghĩa khoái lạc
+chủ nghĩa phát xít
+chủ nghĩa thân hữu
+chủ nghĩa đơn phương
+chứa chấp
+chứng điên cuồng
+chửi rủa
+co rúm
+coi chừng
+coi thường
+con dê
+con gà trống
+con khỉ
+con lười
+con lợn
+con lừa
+con nghiện
+con rối
+con thỏ
+con tin
+con vịt què
+con điếm
+con đỉa
+cua
+cung cấp
+thủ phạm
+cuồng loạn
+cuồng nhiệt
+cuồng tín
+cuộc biểu tình
+cuộc nổi dậy
+cuộc tranh cãi
+cuộc xung đột
+cuộc đấu
+cà phê
+cào
+càu nhàu
+cá bơn
+cá chép
+cá mòi
+cá mập
+các cuộc tấn công
+các mối đe dọa
+các vấn đề
+cách biệt
+cách chức
+cái chết của
+cái mỏ
+cái tát
+cáo buộc
+cáu kỉnh
+câm
+cây tầm ma
+cãi nhau
+cãi vã
+còi cọc
+có ba người
+có hại
+có khả năng
+có mùi
+có vảy
+có vấn đề
+cô lập
+cô đơn
+côn trùng
+côn đồ
+công nhận
+cùn
+cú đâm
+cú đấm
+căn bản
+căng
+căng thẳng
+cũ
+cũng như
+cơ hội
+cơn giận
+cơn sốt
+cơn thịnh nộ
+cưa đi
+cương quyết
+cướp bóc
+cười
+cường điệu
+cưỡng chế
+cưỡng hiếp
+cảm giác tội lỗi
+cảm động
+cản trở
+cảnh báo
+cảnh giác
+cấm
+cấm kỵ
+cấp bậc
+cấp dưới
+cầu kỳ
+cầu nguyện
+cầu thang
+cầu xin
+cẩu thả
+cận biên
+cận thị
+cắn
+cắt cổ
+cắt cổ họng
+cắt xén
+cằn cỗi
+cằn nhằn
+cặn bã
+cỏ dại
+cố chấp
+cố gắng
+cống
+cồng kềnh
+cổ
+cổ xưa
+cộc cằn
+cộc lốc
+cởi quần áo
+cục cằn
+cụm
+cứng
+cứng lại
+cứng nhắc
+cứng rắn
+cứng đầu
+cứt
+cửa hàng
+cự tuyệt
+cực đoan
+đụ mẹ
+dm
+di chuyển chậm
+dilly-dally
+ding
+diêm sanh
+diều hâu
+diệt chủng
+diệt vong
+do dự
+du côn
+dài dòng
+dài hơi
+dày hơn
+dày đặc
+dâm dục
+dâm ô
+dâm đãng
+dân dã
+dân làng
+dân quân
+dây leo
+dã man
+dã thú
+dính
+dính máu
+dò dẫm
+dũng cảm
+dơ bẩn
+dơi
+dư
+dưa chua
+dại dột
+dập tắt
+dằn vặt
+dể tin
+dễ tổn thương
+dễ thương
+dễ thấy
+dị giáo
+dị thường
+dị ứng
+dịch
+địch
+dịch mật
+dịu dàng
+dọa nạt
+dốc
+dối trá
+dốt
+dồn dập
+dứt khoát
+dữ dội
+dự kiến
+dự phòng
+e ngại
+fuck
+fuck u
+fuck you
+gai góc
+ganh đua
+ghen tuông
+ghen tị
+ghép
+ghét
+ghét bỏ
+ghê gớm
+ghê tai
+ghê tởm
+ghẻ lạnh
+gia đình trị
+gian dối
+gian hàng
+gian lận
+gian lận thầu
+gian nan
+gian truân
+gian ác
+giao dịch
+giao lưu
+gibe
+giá cao
+giá cả
+giá quá cao
+giá rẻ
+giám sát
+gián đoạn
+giáo điều
+gièm pha
+giòn
+giường nóng
+giường tầng
+giả
+giả dối
+giả mạo
+giả vờ
+giải giáp
+giải phóng
+giải thích sai
+giải thể
+giải tán
+giảm
+giảm giá
+giảm xóc
+giẫm đạp
+giận dữ
+giật
+giật gân
+giật lùi
+giật mình
+giết chóc
+giết chết
+giết người
+giết việc
+giễu cợt
+giống như chiến tranh
+giới hạn
+giới thiệu
+guốc
+gái điếm
+gánh nặng
+chia rẽ
+chán nản cho
+cháy
+chết người
+gổ
+hiểu lầm
+khó chịu
+nguy hiểm
+nhầm lẫn
+rối
+sốc
+thiệt
+thiệt hại
+thương tích
+tranh cãi
+trở ngại
+tử vong
+ô nhiễm
+gãy xương
+gạch chân
+gạt
+gầm gừ
+gầy
+gập ghềnh
+gắn bó chặt chẽ
+gắn cờ
+gắn kết
+gắt gỏng
+gắt gỏng nhất
+gặm
+gặp rắc rối
+gỉ
+gốc cây
+gốc tự do
+gỗ thông
+gỗ trở lại
+gớm ghiếc
+gỡ lỗi
+gợn sóng
+hack
+hai mặt
+ham chơi
+hang
+hay gây
+hay khoe khoang
+hay quên
+hay thay đổi
+hiếp dâm
+hiếu chiến
+hiểu lầm
+hiểu sai
+hiệu ứng
+hiềm thù
+ho-hum
+hoa hồng
+hoang dã
+hoang mang
+hoang sơ
+hoang tưởng
+hoang vắng
+hoài nghi
+hoàn cảnh
+hoàn hảo
+hoàn nguyên
+hoàn toàn
+hoàn tác
+hoàn vốn
+hoàng tộc
+hoành hành
+hoạt hình
+hoạt động quá mức
+hoản lại
+hoảng loạn
+hoảng sợ
+hung bạo
+hung dữ
+hung hăng
+hung tinh
+hung tợn
+hung ác
+huyên náo
+huyền bí
+huyền thoại
+huyền ảo
+huyễn hoặc
+huênh hoang
+hy sinh
+hà khắc
+hàm ý
+hàng loạt
+hàng rào
+hành vi sai trái
+hành động quá mức
+hào hiệp
+hào hoa
+hào nhoáng
+há hốc
+hãm
+hãm hiếp
+hèn hạ
+hèn nhát
+héo
+hét lên
+hình nộm
+hình sự
+hình đầu
+hòa tan
+hóa đá
+hô hào
+hôi
+hôi thối
+hôn mê
+hôn nhân
+hùng biện
+hút
+hút thuốc lá
+hút ẩm
+hăm dọa
+hăng hái
+hơi nhỏ
+hơi say
+hư
+hư cấu
+hư hại
+hư hỏng
+hư không
+hưng
+hưng cảm
+hương
+hạ
+hạ cấp
+hạ gục
+hạ mình
+hạ thấp
+hạ xuống
+hạn chế
+hạn hán
+hạnh phúc
+hạt giống
+hả hê
+hậu cung
+hậu đậu
+hẹp hơn
+hết hiệu lực
+hết hạn
+hỏng
+hốc hác
+hối hận
+hối lộ
+hối tiếc
+hống hách
+hốt hoảng
+hồi hộp
+hồi quy
+hồi sinh
+hổ thẹn
+hỗn loạn
+hỗn láo
+hộ tống
+hội chứng
+hớ hênh
+hời hợt
+hờn dỗi
+hợm hĩnh
+hủy diệt
+hủy hoại
+keo
+keo kiệt
+khai thác
+khan hiếm
+khao khát
+khinh bỉ
+khinh miệt
+khinh thường
+khiêu khích
+khiếm khuyết
+khiếu nại
+khiển trách
+khoa trương
+khoan
+khoe khoang
+khong thoai mai
+khu ổ chuột
+khuyên can
+khuyên nhủ
+khuyên răn
+khuyết tật
+khuyết điểm
+khuôn mẫu
+khuất phục
+khác biệt
+khác nhau
+khác thường
+kháng chiến
+khát
+khát máu
+khâm liệm
+khéo léo
+khét tiếng
+khó chịu
+khó hiểu
+khó khăn
+khó sử dụng
+khó tính
+khóa
+khóc
+khói
+khôn lanh
+khôn lường
+không an toàn
+không biết gì
+không biết xấu hổ
+không bền vững
+không trừng phạt
+không ảnh hưởng
+không cho phép
+không chung thủy
+không chuẩn bị
+không chính thống
+không chính xác
+không chính đáng
+không chú ý
+không chấp nhận
+không chấp thuận
+không chắc chắn
+không chịu nổi
+không chứng minh
+không cân xứng
+không còn tồn tại
+không có
+không có bảo hiểm
+không có căn cứ
+không có giấy phép
+không có giấy tờ
+không có khả năng
+không có kết quả
+không có kỹ năng
+không có lợi
+không có não
+không có sẵn
+không có thật
+không có ích
+không công bằng
+không cạnh tranh
+không cần thiết
+không cẩn thận
+không dung nạp
+không giám sát
+không giải thích được
+không gì sánh được
+không hiểu
+không hiệu quả
+không hoàn hảo
+không hoạt động
+không hài lòng
+không hành động
+không hấp dẫn
+không hối hận
+không hỗ trợ
+không hợp lý
+không hợp lệ
+không khoan dung
+không khoan nhượng
+không khuyến khích
+không khôn ngoan
+không khả thi
+không khỏe
+không khỏe mạnh
+không kinh tế
+không kiểm soát
+không kể xiết
+không linh hoạt
+không liên lạc
+không liên quan
+không liên tục
+không lo
+không lành mạnh
+không lường trước được
+không may
+không mong muốn
+không mạch lạc
+không nghe được
+không nghi ngờ
+không ngớt
+không ngừng
+không nhất quán
+không phân minh
+không phù hợp
+không phản hồi
+không phổ biến
+không quan niệm
+không quan sát
+không quan trọng
+không quan tâm
+không quen
+không rõ
+không rõ ràng
+không suy nghĩ
+không sáng tạo
+không sử dụng
+không sử dụng được
+không tha thứ
+không thoải mái
+không thuận lợi
+không thành công
+không thành thật
+không thân thiện
+không thích
+không thích hợp
+không thông minh
+không thương tiếc
+không thường xuyên
+không thấm
+không thể
+không thể bảo vệ
+không thể bỏ qua
+không thể chấp nhận
+không thể cưỡng lại
+không thể cứu vãn
+không thể giải thích
+không thể giải thích được
+không thể hiểu được
+không thể hoạt động
+không thể hòa giải
+không thể hỗ trợ
+không thể khắc phục
+không thể kiểm soát
+không thể làm được
+không thể nguôi ngoai
+không thể nào
+không thể phá vỡ
+không thể phân biệt
+không thể phục hồi
+không thể so sánh được
+không thể sử dụng
+không thể sửa chữa
+không thể tha thứ
+không thể thay thế
+không thể tin được
+không thể tranh cãi
+không thể truy cập
+không thể tránh khỏi
+không thể tưởng tượng
+không thể tưởng tượng được
+không thể vượt qua
+không thể xem được
+không thể đoán trước
+không thể đảo ngược
+không thể đọc được
+không thực tế
+không tin
+không tin tưởng
+không tinh khiết
+không tinh vi
+không trung thành
+không trung thực
+không tuân theo
+không tôn trọng
+không tương thích
+không tốn kém
+không tồn tại
+không tử tế
+không tự chủ
+không tự nguyện
+không tự nhiên
+không tự tin
+không vui
+không vâng lời
+không văn minh
+không vững
+không xác định
+không xác định được
+không xứng đáng
+không yên
+không ăn năn
+không đau
+không đoàn kết
+không đáng kể
+không đáng tin cậy
+không đúng
+không đúng cách
+không đúng mực
+không đúng thật
+không được chứng minh
+không được giải quyết
+không được hỗ trợ
+không đạt chuẩn
+không đạt yêu cầu
+không đầy đủ
+không đồng ý
+không đồng đều
+không đủ
+không đủ sức
+không đủ tiêu chuẩn
+không đủ điều kiện
+không đứng đắn
+không ưa
+không ổn
+không ổn định
+khùng
+khúc khích
+khăng khăng
+khả năng chi trả
+khẩn cấp
+khẩu hiệu
+khập khiễng
+khắc khổ
+khắc nghiệt
+khắc sâu
+khối đầu
+khốn
+khốn khổ
+khổ sở
+khờ dại
+khởi nghĩa
+khởi xướng
+khủng bố
+khủng hoảng
+khủng khiếp
+khử mỡ
+killjoy
+kinh hoàng
+kinh khủng
+kinh sợ
+kinh tởm
+kiên cường
+kiên quyết
+kiêu căng
+kiêu hãnh
+kiêu ngạo
+kiến
+kiểm duyệt
+kiểu cách
+kiện
+kiệt sức
+kém
+kém chất lượng
+kém hơn
+kém phát triển
+kén chọn
+kén chọn, khó tính
+kéo
+kéo dài
+kêu ca
+kêu căng
+kêu la
+kêu lên
+kêu răng rắc
+kêu van
+kìm nén
+kích thích
+kích động
+kín đáo
+ký sinh trùng
+kẻ biến thái
+kẻ bất lương
+kẻ cướp
+kẻ dưới
+kẻ gian
+kẻ giết người
+kẻ rối
+kẻ lừa dối
+kẻ ngoại đạo
+kẻ ngốc
+kẻ nói dối
+kẻ phản bội
+kẻ thua cuộc
+kẻ thù
+kẻ thất bại
+kẻ tinh khôn
+kẻ vô lại
+kẻ xâm lược
+kẻ ám sát
+kẻ áp bức
+kẽ hở
+kế hoạch
+kết thúc
+kết tủa
+kịch liệt
+kịp thời
+kỳ cục
+kỳ dị
+kỳ lạ
+kỳ quái
+kỳ quặc
+kỳ quặc nhất
+kỳ thị
+la mắng
+la vang
+lag
+lang băm
+lang thang
+linh mục
+linh tinh
+liên quan
+liều lĩnh
+liệm
+lo
+lo lắng
+lo âu
+lorn
+loại bỏ
+loại trừ
+lu mờ
+lung lay
+lung linh
+luẩn quẩn
+luận tội
+luộm thuộm
+làm bí ẩn
+làm cong
+làm cứng
+làm gián đoạn
+làm hại
+làm mất tinh thần
+làm mất tập trung
+làm mất uy tín
+làm mờ
+làm mờ vết nám
+làm nhục
+làm nặng thêm
+làm phiền
+làm quá
+làm rối
+làm sai lệch
+làm suy yếu
+làm sáng tỏ
+làm trầm trọng thêm
+làm tê liệt
+làm tối
+làm tổn thương
+làm vỡ
+làm ô uế
+làm đảo lộn
+láo xược
+lãng phí
+lão hóa
+lén lút
+lên án
+lò mổ
+lòng thương
+lòng thương hại
+lót cứng
+lôi kéo
+lông
+lông cứng
+lúng túng
+lăng mạ
+lưu vong
+lưới
+lười biếng
+lườm
+lưỡng lự
+lạ
+lạ lùng nhất
+lạc hướng
+lạc hậu
+lạc quan
+lạc đường
+lạch cạch
+lạm dụng
+lạm phát
+lạnh
+lạnh lùng
+lảm nhảm
+lảng tránh
+lảo đảo
+lấn chiếm
+lấy làm tiếc
+lấy trộm
+lầm bầm
+lẩn quẩn
+lẩn tránh
+lập dị
+lập luận
+lật ngửa
+lật úp
+lật đổ
+lắc
+lắp bắp
+lắt léo
+lặp đi lặp lại
+lẻ
+lẻ tẻ
+lẻn
+lịch sự
+lỏng lẻo
+lố bịch
+lối ngụy biện
+lồn
+lỗ hổng
+lỗ khoan
+lỗ thông hơi
+lỗ vốn
+lỗi
+lỗi thời
+lộn xộn
+lột vỏ
+lớp thứ hai
+lờ mờ
+lời phàn nàn
+lời thú tội
+lởm chởm
+lợi ích
+lợn
+lợn hơi
+lục lạc
+lừa
+lừa bịp
+lừa dối
+lừa gạt
+lừa đảo
+ma cô
+ma quái
+ma quái nhất
+ma quỷ
+ma sát
+mach lẻo
+mai phục
+maledict
+man rợ
+mangle
+mawkish
+mawkishness
+may mắn
+meo
+miff
+minh oan
+miễn cưỡng
+miễn dịch
+miệt thị
+monster
+mong manh
+mui xe
+muỗng
+muộn màng
+mài mòn
+mài ngọc
+màn khói
+máng xối
+mánh khóe
+mánh lới quảng cáo
+máy bay không người lái
+máy chủ
+máy gặt
+máy khử mùi
+máy vẽ
+mâu thuẫn
+mãn tính
+mèo béo
+mèo mập
+méo mó
+mê sảng
+mê tín
+mía
+mòn
+món nợ
+món thịt hầm
+mô phạm
+mù
+mù chữ
+mùi
+mùi hôi
+mùi hôi thối
+mút
+mũi nhọn
+mơ hồ
+mưu mẹo
+mưu đồ
+mương cuối
+mượt mà
+mạnh
+mạnh mẽ
+mạo phạm
+mất
+mất cân bằng
+mất cân đối
+mất giá
+mất hiệu lực
+mất lòng tin
+mất mát
+mất người thân
+mất phương hướng
+mất thời gian
+mất tinh thần
+mất trí
+mất trật tự
+mất tập trung
+mất uy tín
+mất đi
+mất đoàn kết
+mất ổn định
+mẫn cảm
+mập
+mập mạp
+mắc cạn
+mắng
+mặc cả
+mặc dù
+mặc quần áo
+mệnh giá
+mệt mỏi
+mỉa mai
+mỏi mắt
+mỏng manh
+mối hận
+mối quan ngại
+mối quan tâm
+mối đe dọa
+mồ côi
+mồi
+mổ xẻ
+một chiều
+một cách bối rối
+một cách cay độc
+một cách khó hiểu
+một cách đáng sợ
+một phần
+mớ hỗn độn
+mờ
+mờ hơn
+mờ nhạt
+mời
+mục nát
+mục sư
+mức độ nghiêm trọng
+mứt
+ngang nhiên
+ngay đơ
+nghi ngờ
+nghi vấn
+nghiêm chỉnh
+nghiêm cấm
+nghiêm khắc
+nghiêm ngặt
+nghiêm trang
+nghiêm trọng
+nghiêm túc
+nghiên
+nghiêng
+nghiêng trái
+nghiền
+nghiền nát
+nghiện
+nghiệt ngã
+nghèo hơn
+nghèo khó
+nghèo khổ
+nghèo nhất
+nghèo nàn
+nghèo đói
+nghẹt thở
+nghẽn
+nghỉ giải lao
+nghỉ việc
+nghịch cảnh
+nghịch lý
+nghịch ngợm
+ngoan cố
+ngoài vòng pháp luật
+ngoại tình
+ngu
+ngu ngốc
+ngu ngốc nhất
+ngu si
+ngu si đần độn
+ngu xuẩn
+nguy cơ
+nguy hiểm
+nguyên thủy
+nguyền rủa
+nguyện vọng
+ngày tận thế
+ngáp
+ngân nga
+nngô
+nthơ
+ngã
+ngã ra ngoài
+ngón tay cái xuống
+ngông cuồng
+ngăn cấm
+ngơ ngác
+ngưng
+người bay
+người bán thịt
+người bất đồng
+người bầu cử
+người bận rộn
+người bỏ cuộc
+người chịu tang
+người cứng
+người cứng rắn
+người du côn
+người ô nhiễm
+người hối hả
+người khuyên bảo
+người không tin
+người lùn
+người lạ
+người nghiện
+người ngoài cuộc
+người nói dối
+người phát ngôn
+người phạm tội
+người phản bội
+người phụ nữ
+người say rượu
+người siêng năng
+người thao tác
+người vi phạm
+người vi phạm pháp luật
+người vượn
+người xin lỗi
+người xúi giục
+người ăn xin
+người điên
+người đánh bóng
+người đạt được
+người đảo chính
+ngược đãi
+ngạo nghễ
+ngấm ngầm
+ngất xỉu
+ngấu nghiến
+ngẫu nhiên
+ngập nước
+ngập úng
+ngốc
+ngốc nghếch
+ngỗ nghịch
+ngộ nhận
+ngột ngạt
+ngớ ngẩn
+ngờ vực
+ngụ ý
+ngục tối
+ngụy biện
+ngụy trang
+ngứa
+ngứa ran
+ngửi
+nham hiểm
+nhiều mây
+nhiễm trùng
+nhiễm độc
+nhiễu loạn
+nhiệt tâm
+nhoè
+nhuốm màu
+nhà gỗ
+nhà kính
+nhà phê bình
+nhà thờ
+nhà vệ sinh
+nhà độc tài
+nhàm chán
+nhàn rỗi
+nhàu nát
+nhát gan
+nhân cách
+nhân vật phản diện
+nhóc
+nhói
+nhóm
+nhún vai
+nhút nhát
+nhăn
+nhăn mặt
+như con la
+nhược điểm
+nhượng bộ
+nhạc punk
+nhạo báng
+nhạt nhòa
+nhảm nhí
+nhấn chìm
+nhấn mạnh
+nhấp nháy
+nhất thiết
+nhầm
+nhầm lẫn
+nhẫn tâm
+nhập khẩu
+nhặt
+nhếch nhác
+nhếch nhác nhất
+nhỏ bé
+nhỏ giọt
+nhỏ mọn
+nhổ
+nhớ
+nhỡ
+nhợt nhạt
+nhục nhã
+nhức mỏi
+nhức đầu
+những kẻ bắt nạt
+những kẻ đạo đức giả
+những lời chúc
+những lời chỉ trích
+những lời cầu xin
+những người mắc kẹt
+những điểm yếu
+nhựa cây
+nitpicking
+nittc
+non nớt
+náo động
+nâng lên
+nêm
+nói dối
+nói lắp
+nói nhảm
+nói quá
+nói sai
+nói xấu
+nói đùa
+nóng bỏng
+nóng nảy
+nô lệ
+nôn
+nông
+năng lực
+nạn đói
+nản chí
+nắm
+nắm tay
+nặng hàng đầu
+nặng lòng
+nặng tay
+nếp nhăn
+nọc độc
+nổ tung
+nổi dậy
+nổi loạn
+nổi mụn
+nỗi buồn
+nỗi sợ
+nội tâm
+nợ
+nức nở
+nứt
+nửa vời
+nữ tính
+nực cười
+oanh tạc
+odder
+oán giận
+pha trò
+phi logic
+phi lý
+phi nhân hóa
+phi nước đại
+phi thường
+phi vật chất
+phi đạo đức
+phiền
+phiền hà
+phiền muộn
+phiền nhiễu
+phiền não
+phiền phức
+phiền toái
+phobic
+phun
+phun ra
+phun trào
+phung phí
+phàn nàn
+phá
+phá hoại
+phá hủy
+phá sản
+phá vỡ
+pháo sáng
+phát ban
+phát nổ
+phát sáng
+phát xít
+phát âm
+phát âm sai
+phân biệt
+phân biệt chủng tộc
+phân biệt đối xử
+phân cực
+phân ly
+phân mảnh
+phân phát
+phân tách
+phân tán
+phòng ngự
+phó
+phóng khoáng
+phóng đại
+phô trương
+phù hợp
+phù phiếm
+phún
+phơi khô
+phạm lỗi
+phạm pháp
+phạm tội
+phạt
+phạt tù
+phản bội
+phản cảm
+phản diện
+phản quốc
+phản tác dụng
+phản đối
+phản động
+phẫn nộ
+phật ý
+phỉ báng
+phồng
+phồng rộp
+phổ biến
+phụ thuộc
+phục tùng
+phục vụ
+phủ nhận
+phủ định
+phức tạp
+quan niệm sai lầm
+quanh co
+quay lưng
+quen thuộc
+quyết liệt
+quyết đoán
+quyền lãnh đạo
+quá cân bằng
+quá hạn
+quá khổ
+quá kinh ngạc
+quá liều
+quá mức
+quá mức cần thiết
+quá nghiêm trọng
+quá nhiệt tình
+quá nhỏ
+quá nóng
+quá nặng
+quá tải
+quá tập trung
+quá đáng
+quái dị
+quái gở
+quái vật
+quái đản
+què
+quên
+quên mất
+quấy rối
+quần lót
+quầy hàng
+quẫn trí
+quằn quại
+quở trách
+quỷ
+quỷ dị
+quỷ dữ
+quỷ quyệt
+ranh mãnh
+rant
+rau bina
+riêng
+roi da
+ru ngũ
+rung
+rung động
+rào chắn
+rác
+rác rưởi
+rách nát
+rách rưới
+râm
+râm ran
+rèm
+rèn
+ré lên
+rên
+rên rỉ
+rình mò
+rìu
+rít lên
+rò rỉ
+rón rén
+rô
+rõ ràng
+rùng mình
+rút lui
+rút lại
+răn đe
+rơi
+rơi ra ngoài
+rạn nứt
+rất tiếc
+rầm rầm
+rắc rối
+rỉ sét
+rối
+rối loạn
+rối tung
+rồng
+rỗng
+rời rạc
+rụng tóc
+rụt rè
+rủ xuống
+rủi ro
+rừng cây
+rừng trở lại
+rửa sạch
+sa lầy
+sa mạc
+sa thải
+sai
+sai lầm
+sai lầm ngớ ngẩn
+sai lệch
+sai rồi
+sai sót
+sass
+say
+say rượu
+shit
+si mê
+sidetrack
+sillily
+sinh nở
+sinh viên
+siêng năng
+siêu cứng
+slooooooooooooow
+sloooow
+slooow
+sung công
+suy giảm
+suy nhược
+suy sụp
+suy thoái
+suy thoái kinh tế
+suy tàn
+suy yếu
+suy đồi
+sáo rỗng
+sát thủ
+sâu bệnh
+sâu răng
+sâu sắc
+sên
+sôi
+sôi lên
+sôi nổi
+sôi sục
+săn mồi
+sơ hở
+sơ suất
+sơ sài
+sưng
+sưng lên
+sương giá
+sương mù
+sự sỉ nhục
+sần
+sần sùi
+sắp xảy ra
+sắp xếp không hợp lý
+sắp xếp sai
+sắt vụn
+sẵn sàng
+sặc
+sặc sỡ
+sẹo
+số không
+số phận
+sốc
+sống ngắn
+sống động
+sốt
+sốt ruột
+sốt sắng
+sờ soạng
+sợ
+sợ hãi
+sụt giảm
+sứt mẻ
+sử dụng không đúng cách
+sử dụng sai
+sững sờ
+bùng nổ
+bất công
+bất cẩn
+bất hợp lý
+bất khuất
+bất tiện
+bất trị
+bất ổn
+bịa đặt
+cay cú
+chia rẽ
+chu đáo
+chìm tàu
+chảy máu
+chậm trễ
+chết
+chệch hướng
+chỉ trích
+cám dỗ
+cô đơn
+căm ghét
+căng thẳng, quá tải
+cố
+ghen tị
+gian dối
+gian ác
+giả dối
+giận dữ
+hiểu lầm
+hoàn hảo
+háo hức
+hạn chế
+hối hận
+khan hiếm
+khiển trách
+không hoàn hảo
+không khoan nhượng
+không trung thực
+kiêu ngạo
+lo ngại
+lãng quên
+lúng túng
+minh bạch
+mơ hồ
+nghi ngờ
+nghiêm túc
+ngắn ngủi
+nhầm lẫn
+phá hủy
+phản bội
+phản đối
+phẫn nộ
+phục hồi
+quái dị
+rụt rè
+sụp đổ
+thay đổi
+thiếu
+thiếu sót
+thù ghét
+thù nghịch
+thất thường
+thất vọng
+trơ trẽn
+trống rỗng
+trừng phạt
+tàn bạo
+tàn nhẫn
+tàn phá
+tàn ác
+táo bạo
+từ chối
+tự phụ
+vi phạm
+vội vàng
+xung đột
+xấu xí
+ô nhục
+đông đúc
+đố kị
+đối lập
+ảm đạm
+tai biến
+tai hại
+tai họa
+tai nạn
+tai tiếng
+tai ương
+tan chảy
+tan rã
+tang quyến
+taut
+tawdry
+tay sai
+teo
+tha
+tha hóa
+tha thiết
+tha thứ
+thai nhi
+tham
+tham gia
+tham lam
+tham nhũng
+than phiền
+than thở
+than van
+thao tác
+thao túng
+thay thế
+thiên tai
+thiên vị
+thiêu đốt
+thiến
+thiết kế xấu
+thiết lập
+thiếu
+thiếu chính xác
+thiếu hiểu biết
+thiếu kinh nghiệm
+thiếu kiên nhẫn
+thiếu máu
+thiếu quyết đoán
+thiếu suy nghĩ
+thiếu sót
+thiếu thuyết phục
+thiếu thận trọng
+thiếu tôn trọng
+thiếu văn hóa
+thiếu văn minh
+thiếu xót
+thiển cận
+thiệt hại
+thiệt thòi
+thoái hóa
+thoái thác
+thoáng qua
+thoát nước
+thoát ra
+thu hút
+thu hồi
+thu phí
+thua
+thuyết pháp
+thuốc nổ
+thuổng
+thuộc hạ
+thành ngữ
+thách thức
+thái quá
+tháng ba
+tháo dỡ
+tháo gỡ
+thân mật
+thân yêu
+thây ma
+thét
+thê lương
+thê thảm
+thích sai
+thính giác
+thô
+thô bạo
+thô bỉ
+thô lỗ
+thô thiển
+thô tục
+thông tin
+thông tin sai
+thông đồng
+thù hằn
+thù oán
+thù địch
+thúi
+thư mục
+thương binh
+thương cho
+thương tiếc
+thương tâm
+thương vong
+thưởng thức
+thả nổi
+thảm hại
+thảm họa
+thảm khốc
+thảm sát
+thấp
+thấp thoáng
+thất bại
+thất nghiệp
+thất sủng
+thất thường
+thất tình
+thất vọng
+thầm kín
+thần kinh
+thận trọng
+thật khó chịu
+thật đáng buồn
+thật đáng thương
+thật đáng tiếc
+thắt nút
+thế chấp
+thỉnh thoảng
+thịnh hành
+thịt cừu
+thối
+thổi
+thổi phồng
+thổi phồng quá mức
+thờ ơ
+thời gian dài
+thở hổn hển
+thợ sửa chữa
+thụ động
+thụt rửa
+thủ phạm
+thừa
+thừa cân
+thừa nhận
+thử
+thử thách
+thực hiện
+tin
+tin giờ chót
+tin đồn
+tinh nghịch
+tinh ranh
+tinh thần
+tiêu cực
+tiếng kêu
+tiếng rít
+tiếng xì xì
+tiếng ồn
+tiền
+tiền mặt
+to hơn
+to tiếng
+torrent
+toàn diện
+toàn trị
+tra tấn
+tramp
+trang nghiêm
+tranh chấp
+tranh cãi
+tranh giành
+tranh luận
+trao đổi
+treo
+treo cổ
+triệt binh
+triệt để
+triệu chứng
+trong lòng hiếu khách
+truy tố
+truyền giáo
+truyền nhiễm
+tràn
+tràn ngập
+trách móc
+trách nhiệm pháp lý
+trát hầu tòa
+trát đòi hầu tòa
+trêu chọc
+trì hoãn
+trì trệ
+trình bày sai
+trò chuyện
+trò cười
+trò hề
+trôi đi
+trơ trẽn
+trơn
+trường hợp khẩn cấp
+trả lương thấp
+trả quá nhiều
+trả thù
+trả đũa
+trải rộng
+trầm cảm
+trần tục
+trầy xước
+trật khớp
+trắng trợn
+trọng lượng
+trọng tội
+trốn học
+trốn tránh
+trớ trêu
+trớ trêu thay
+trở kháng
+trở ngại
+trở nên giàu
+trụ cột
+trục trặc
+trục xuất
+trừ
+trừng phạt
+trực tiếp
+tuyên truyền
+tuyết lở
+tuyệt vọng
+tuyệt vời
+tà
+tà ác
+tàn
+tàn bạo
+tàn khốc
+tàn nhẫn
+tàn phá
+tàn sát
+tàn tích
+tàn tật
+tào lao
+tàu khu trục
+tàu lượn siêu tốc
+tác hại
+tách tai
+tái phát
+tán tỉnh
+táo bạo
+tâm sự
+té ngã
+tê
+tê liệt
+tìm kiếm tử đạo
+tình cờ
+tình cờ gặp
+tình nguyện
+tình nhân
+tình tiết tăng nặng
+tình trạng khó khăn
+tình trạng khó xử
+tích trữ
+tính phản cảm
+tính toàn diện
+tính toán lại
+tính toán sai
+tính trực tiếp
+tính vị kỷ
+tôi
+tôn nghiêm
+tù giam
+tù nhân
+tù túng
+tùy ý
+túi bẩn
+túi bụi bẩn
+túng thiếu
+tăng vọt
+tĩnh
+tư cách
+tư lợi
+tư thế
+tương phản
+tước
+tưới nước
+tưởng tượng
+tạm bợ
+tạm thời
+tạp chất
+tấn công
+tấn công dữ dội
+tầm cỡ
+tầm thường
+tầm thường hóa
+tẩy chay
+tẩy não
+tận thế
+tắc nghẽn
+tẻ nhạt
+tệ
+tệ hơn
+tệ hại
+tệ nhất
+tệ nạn
+tỉnh táo
+tọc mạch
+tố cáo
+tối
+tối hơn
+tối hậu thư
+tối nghĩa
+tốn kém
+tống tiền
+tồi tàn
+tồi tệ
+tổng
+tội
+tội lỗi
+tội phạm
+tội ác
+tục tĩu
+tụt hậu
+tức giận
+từ bỏ
+từ chối
+từ chối trách nhiệm
+từ chức
+từ ngữ
+tử vong
+tử đạo
+tự cao
+tự cao tự đại
+tự hủy hoại
+tự mãn
+tự nhiên
+tự phê bình
+tự phụ
+tự phục vụ
+tự quan tâm
+tự sát
+tự sỉ nhục
+tự ti
+tự tử
+tự đánh bại
+tự đảo chính
+u mê
+u sầu
+u ám
+undercut
+ung thư
+uể oải
+uốn cong
+uốn cơ
+va chạm
+van tiết lưu
+vex
+vi hiến
+vi phạm
+vi phạm pháp luật
+vi rút
+viper
+viêm
+viết hoa
+viễn tưởng
+viễn vông nhưng vẫn khiêu khích
+việc vặt
+vong linh
+vong ân
+vu khống
+vu oan
+vui vẻ
+vuốt
+vàng da
+vách ngăn
+váy lót
+vây
+véo
+ví dụ
+vô chính phủ
+vô căn
+vô căn cứ
+vô cảm
+vô duyên
+vô dụng
+vô giá
+vô giá trị
+vô hiệu
+vô hiệu hóa
+vô hình
+vô hồn
+vô luật pháp
+vô lý
+vô lễ
+vô mục đích
+vô nghĩa
+vô nhân đạo
+vô năng
+vô sinh
+vô thần
+vô tri
+vô trách nhiệm
+vô tình
+vô tư
+vô tổ chức
+vô vọng
+vô ích
+vô đạo đức
+vô độ
+vô ơn
+vông ân
+vùi dập
+vũ phu
+vũng bùn
+vướng mắc
+vướng víu
+vượt qua
+vượt quá
+vảy
+vấn đề
+vấp ngã
+vất vả
+vận dụng
+vận mệnh
+vật
+vật lộn
+vật tế thần
+vắn tắc
+vắng mặt
+vặn vẹo
+vết bầm tím
+vết bẩn
+vết lõm
+vết nứt
+vết sẹo
+vết thương
+vết trầy
+vết trầy xước
+vết tích
+vết ố
+vệt
+vỉ
+vị chát
+vội vàng
+vội vã, hoảng loạn
+vỡ
+vỡ mộng
+vỡ nợ
+vỡ vụn
+vụ bê bối
+vụng về
+vực sâu
+vực thẳm
+woebegone
+xa hoa
+xa lánh
+xa xôi
+xanh xao
+xe máy
+xe tăng
+xe đẩy
+xem thường
+xin
+xin lỗi
+xiên
+xiêu vẹo
+xoay sở
+xoài
+xoắn
+xua đuổi
+xung quanh
+xung đột
+xuyên tâm
+xuyên tạc
+xuống
+xuống cấp
+xuống dốc
+xà phòng
+xác tàu
+xáo trộn
+xâm lược
+xâm lấn
+xâm nhập
+xâm phạm
+xây dựng
+xã hội đen
+xé toạc
+xì trum
+xóa
+xóa sổ
+xói mòn
+xô xát
+xôn xao
+xù lông
+xúc phạm
+xúi giục
+xơ
+xưa
+xưng
+xương sống
+xảo quyệt
+xảo trá
+xấc xược
+xấu
+xấu hình
+xấu hơn
+xấu hổ
+xấu nhất
+xấu số
+xấu tính
+xấu xa
+xấu xí
+xấu đi
+xỉn màu
+xử lý sai
+xử phạt
+yên nghỉ
+yêu tinh
+yếu
+yếu hơn
+yếu đuối
+zap
+ác cảm
+ác mộng
+ác quỷ
+ác tính
+ác ý
+ám sát
+ám ảnh
+áo đường
+áp bức
+áp đảo
+áp đặt
+âm mưu
+âm u
+âm ỉ
+ân hận
+ép buộc
+ích kỷ
+ít
+ít vận động
+ít được biết đến
+ít ỏi
+ô nhiễm
+ô nhục
+ô uế
+ù
+ý nghĩa
+ý thức
+ăn cắp
+ăn da
+ăn mày
+ăn mòn
+ăn thịt người
+ăn xin
+đa dâm
+đa ngôn
+đa phân cực
+đang đe dọa
+đau
+đau buồn
+đau khổ
+đau lòng
+đau lưng
+đau nhức
+đau thương
+đau đầu
+đau đớn
+đau ốm
+đe dọa
+đe dọa tính mạng
+đi
+đi chệch
+đi khệnh khạng
+đi tiếp
+đi tiểu
+đi vênh vang
+điên
+điên cuồng
+điên hơn
+điên rồ
+điếc
+điều chỉnh
+điểm yếu
+đàn áp
+đàng hoàng
+đào ngũ
+đá
+đám mây
+đáng báo động
+đáng ghét
+đáng khinh
+đáng kể
+đáng lo ngại
+đáng lên án
+đáng ngại
+đáng ngờ
+đáng sợ
+đáng sợ hơn
+đáng sợ nhất
+đáng thương
+đáng thất vọng
+đáng tin cậy
+đáng tiếc
+đáng trách
+đáng xấu hổ
+đánh
+đánh cược
+đánh giá quá cao
+đánh giá quá thấp
+đánh giá sai
+đánh giá thấp
+đánh lạc hướng
+đánh nhau
+đánh thuế
+đánh đòn
+đánh đố
+đã chết
+đã hủy bỏ
+đã phá vỡ
+đãng trí
+đèn chùm
+đê tiện
+đình công
+đình trệ
+đói
+đóng băng
+đóng thế
+đông cứng
+đông lạnh
+đông người
+đùa
+đùa giỡn
+đăng nhập lại
+đĩ
+đơn cực
+đơn giản
+đơn giản hóa
+đơn điệu
+đường lỗi cứng rắn
+đường ray
+đường sắt
+được che chở
+đại dịch
+đạo văn
+đạo đức giả
+đạt được
+đảng phái
+đảo lộn
+đấu tranh
+đấu vật
+đầm lầy
+đần độn
+đầu gấu
+đầu hàng
+đầy rẫy
+đầy đủ
+đẩy lùi
+đập
+đập vỡ
+đắm mình
+đắng
+đắt
+đắt hơn
+đặc biệt
+đế quốc
+địa ngục
+địa tầng
+định giá quá cao
+định kiến
+định mệnh
+đọc
+đọc sai
+đối kháng
+đối mặt
+đối thủ
+đối xử tệ bạc
+đối đầu
+đốm
+đốt
+đốt cháy
+đồ chơi
+đồ khốn
+đồ ngốc
+đồi bại
+đồi trụy
+đồng lõa
+đồng tính
+đổ
+đổ máu
+đổ mồ hôi
+đổ nát
+độ cứng
+độ dẻo dai
+độ lệch
+độ trễ
+độc
+độc hại
+độc lực
+độc quyền
+độc tài
+độc ác
+độc ác nhất
+độc đoán
+đột ngột
+đục
+đứng cách xa
+ương ngạnh
+ảm đạm
+ảo giác
+ảo tưởng
+ảo ảnh
+ấm
+ấm áp
+ấp trứng
+ấp úng
+ấu trĩ
+ầm ầm
+ẩm ướt
+ẩn danh
+ẩn nấp
+ẩn ý
+ọp ẹp
+ốm
+ốm yếu
+ốm đau
+ống xả
+ồn ào
+ồn ào hơn
+ổi
+ủ rũ
+ủy mị
+ức chế
+ứng dụng
+ừ
+ừa
+uhm

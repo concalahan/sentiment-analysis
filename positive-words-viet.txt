@@ -1,0 +1,1254 @@
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+; 
+; Opinion Lexicon: Positive
+;
+; This file contains a list of POSITIVE opinion words (or sentiment words).
+;
+; This file and the papers can all be downloaded from 
+;    http://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html
+;
+; If you use this list, please cite one of the following two papers:
+;
+;   Minqing Hu and Bing Liu. "Mining and Summarizing Customer Reviews." 
+;       Proceedings of the ACM SIGKDD International Conference on Knowledge 
+;       Discovery and Data Mining (KDD-2004), Aug 22-25, 2004, Seattle, 
+;       Washington, USA, 
+;   Bing Liu, Minqing Hu and Junsheng Cheng. "Opinion Observer: Analyzing 
+;       and Comparing Opinions on the Web." Proceedings of the 14th 
+;       International World Wide Web conference (WWW-2005), May 10-14, 
+;       2005, Chiba, Japan.
+;
+; Notes: 
+;    1. The appearance of an opinion word in a sentence does not necessarily  
+;       mean that the sentence expresses a positive or negative opinion. 
+;       See the paper below:
+;
+;       Bing Liu. "Sentiment Analysis and Subjectivity." An chapter in 
+;          Handbook of Natural Language Processing, Second Edition, 
+;          (editors: N. Indurkhya and F. J. Damerau), 2010.
+;
+;    2. You will notice many misspelled words in the list. They are not 
+;       mistakes. They are included as these misspelled words appear 
+;       frequently in social media content. 
+;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+10
+a +
+amply
+an toàn
+an ủi
+anh hùng
+ban phước
+bao la
+biết tốt nhất
+biết ơn
+biện hộ
+bom tấn
+bán chạy nhất
+bánh nóng
+bão hòa
+bình dị
+bình minh
+bình phục
+bình yên
+bóng mượt
+bùa mê
+bùng nổ
+bản lĩnh
+bảo hành
+bảo vệ
+bất diệt
+bất khả chiến bại
+bất khả xâm phạm
+bẩm sinh
+bậc thầy
+bắt chước
+bắt gặp
+bắt mắt
+bằng chứng giả
+bền chặt
+bền vững
+bệnh nhân
+bị kích thích
+bỏ tay xuống
+bốc lửa
+bổ sung
+bổ túc
+bổ ích
+bội thu
+ca ngợi
+cam kết
+cam đoan
+can đảm
+cao cấp
+cao quý
+cao siêu
+cao thượng
+chim sa
+chiếc cúp
+chiến thắng
+chiếu sáng
+chiếu sáng tốt
+chiều chuộng
+cho phép
+choáng váng
+chu đáo
+chubub
+chung thủy
+chuẩn độ
+chuộc lại
+chuộc lỗi
+chào
+chào mừng
+chân thành
+chì
+chính hãng
+chính xác
+chính đáng
+chói sáng
+chúc mọi người
+chúc mừng
+chúc mừng em
+chạy tốt
+chất lượng cao
+chất rắn
+chắc chắn
+chắc chắn hơn
+chết
+chết lặng
+chỉnh sửa
+chịu trách nhiệm
+chịu được
+chọn lọc
+chớp cánh
+chủ động
+chứng minh
+chứng thực
+chứng từ
+chứng từ an toàn
+chữa khỏi
+chữa lành
+cung kính
+cushy
+cuồng nhiệt
+cá nhân
+cá nhân hóa
+cách mạng
+cách mạng hóa
+cách điệu
+cám dỗ
+cân bằng
+cân bằng tốt
+cân não nhất
+có công
+có hiệu lực
+có học thức
+có hồn
+có khả năng
+có kiến ​​thức
+có lương tâm
+có lợi
+có mục đích
+có sẵn
+có thiện chí
+có thẩm quyền
+có thể hiểu được
+có thể nâng cấp
+có thể sử dụng
+có thể thu vào
+có thể tháo rời
+có thể thắng
+có thể thực hiện được
+có thể truy cập
+có thể xem được
+có thể đạt được
+có thể đọc được
+có trách nhiệm
+có trật tự
+có tài
+có uy tín
+có ý nghĩa
+có động lực
+có ảnh hưởng
+công bình
+công bằng
+công khai
+công thái học
+công trinh
+công việc
+cơ động
+cư xử tốt
+cư xử đúng mực
+cười toe toét
+cạnh tranh
+cải chính
+cải cách
+cải thiện
+cải tiến
+cảm giác
+cảm hứng
+cảm tạ
+cảm ơn
+cảnh giác
+cấp tiến
+cấp trên
+cống hiến
+cổ điển
+cởi mở
+cục cưng
+cứng hơn
+cứu trợ
+cực lạc
+danh dự
+danh lam thắng cảnh
+danh tiếng
+dao cạo sắc bén
+dung lượng lớn
+duy trì
+duyên dáng
+duỗi thẳng
+dày dạn
+dám nghĩ dám làm
+dâm đãng
+dí dỏm
+dũng cảm
+dư dật
+dạ quang
+dấu ấn
+dẫn
+dẻo dai
+dễ chịu
+dễ dàng
+dễ dàng hơn
+dễ dãi
+dễ hiểu
+dễ nhất
+dễ sử dụng
+dễ thương
+dịu dàng
+dịu dàng nhất
+dọn dẹp
+dồi dào
+dụ dỗ
+dứt khoát
+em yêu
+ftw
+ga lăng
+gan dạ
+geeky
+ghen tị
+ghê gớm
+gia công
+giàu có
+giàu hơn
+giàu trí tưởng tượng
+giàu tính năng
+giá cả phải chăng
+giá rẻ
+giá rẻ hơn
+giá thấp
+giá thấp hơn
+giá trị
+giác ngộ
+giòn hơn
+gió
+gió nhẹ
+giúp đỡ
+giơ ngón tay cái lên
+giải phóng
+giải thoát
+giải thưởng
+giải trí
+giảm bớt
+giản thể
+giật gân
+giới thiệu
+good
+goood
+gây khó chịu
+gây ấn tượng
+gìn giữ hòa bình
+gương mẫu
+gạ gẫm
+gắn kết
+gọn gàng
+gọn gàng nhất
+gọn nhẹ
+gợi cảm
+gợi lên
+gửi thần
+hiếu khách
+hiểu
+hiện tượng
+hiện đại
+hiện đại nhất
+hiệu quả
+hiệu quả chi phí
+hoa
+hoan hảo
+hoan hô
+hoan nghênh
+hoàn hảo
+hoàn lại tiền
+hoàn thành
+hoàn tiền
+hoàn toàn khả thi
+hoành tráng
+hoạt bát
+hoạt động tốt nhất
+huy hoàng
+huyền diệu
+huyền thoại
+hy vọng
+hài hòa
+hài hước
+hài lòng
+hàng đầu
+hào hiệp
+hào hùng
+hào hứng
+hào nhoáng
+hào phóng
+háo hức
+hân hoan
+hòa bình
+hòa giải
+hòa hợp
+hòa nhã
+hòa đồng
+hùng hồn
+hùng mạnh
+hùng vĩ
+hăng hái
+hăng say
+hưng phấn
+hưng thịnh
+hương vị
+hướng dẫn
+hạng nhất
+hạnh phúc
+hạnh phúc hơn
+hải ly
+hấp dẫn
+hậu vệ
+hết lòng
+hồ hởi
+hồi hộp
+hồi sinh
+hỗ trợ
+hội chợ
+hớn hở
+hợp lý
+hợp pháp
+hợp thời
+hợp thời trang
+hợp tác
+hợp tác xã
+hữu ích
+ilu
+im lặng
+khao khát
+khen ngợi
+khiêm tốn
+kho báu
+khoan hồng
+khoe khoang
+khuyến khích
+khuyến nghị
+khuấy động
+khám bệnh
+kháng cáo
+khát vọng
+khéo léo
+khích lệ
+khó khăn
+khó khăn hơn
+khó khăn nhất
+khó thở
+khôi hài
+khôi phục
+khôn ngoan
+không bạo lực
+không bị cản trở
+không bị hư hại
+không bị ảnh hưởng
+không bối rối
+không có lỗi
+không có rủi ro
+không có sẵn
+không có thật
+không có vấn đề
+không giá trị
+không gỉ
+không hạn chế
+không lay chuyển
+không lo lắng
+không nghi ngờ
+không nghi ngờ gì
+không nản chí
+không nản lòng
+không phức tạp
+không ràng buộc
+không rõ ràng
+không rắc rối
+không suy nghĩ
+không sợ hãi
+không thay đổi
+không thiên vị
+không thể chấp nhận được
+không thể chối cãi
+không thể cưỡng lại
+không thể nghi ngờ
+không thể nào quên
+không thể sai lầm
+không thể thay thế
+không thể thiếu
+không thể tin được
+không thể tranh cãi
+không tì vết
+không tốn kém
+không ích kỷ
+không đau
+không ồn ào
+khả năng
+khả thi
+khả ái
+khải hoàn
+khẩn trương
+khẳng định
+khế ước
+khỏe
+khỏe mạnh
+khớp nối
+khởi sắc
+khủng khiếp
+kinh khủng
+kinh ngạc
+kinh ngạc
+kinh tế
+kiên cường
+kiên nhẫn
+kiên quyết
+kiên trì
+kiên định
+kiên định nhất
+kiểm chứng
+kiệt tác
+kèn
+kêu
+kìm
+kích thích
+kính sợ
+kết nối tốt
+kịch tính
+kịp thời
+kỳ công
+kỳ diệu
+kỳ lạ
+kỳ quan
+kỷ niệm
+kỹ năng
+lanh lợi
+lanh tay
+linh hoạt
+lionhearted
+liên quan
+liên tục
+liền mạch
+lo âu
+long lanh
+lung linh
+ly kỳ
+làm
+làm chủ
+làm dịu
+làm giàu
+làm hài lòng
+làm mịn
+làm mới
+làm say mê
+làm tươi
+làm việc chăm chỉ
+làm đẹp
+lành mạnh
+lành nghề
+lâu dài
+lãng mạn
+lãng mạn hóa
+lòng biết ơn
+lòng can đảm
+lòng chung thủy
+lòng nhân từ
+lòng thành kính
+lòng tin
+lòng trung thành
+lòng tốt
+lóa mắt
+lôi cuốn
+lúng túng
+lý luận
+lý tưởng
+lý tưởng hóa
+lạc quan
+lạnh nhất
+lấp lánh
+lể nghi
+lễ hội
+lễ kỷ niệm
+lịch sự
+lọc
+lối vào
+lộng lẫy
+lớn
+lớp học đầu tiên
+lời hứa
+lời khen
+lời nhắc
+lợi thế
+lợi ích
+lừng lẫy
+lực kéo
+ma thuật
+mang tính xây dựng
+mang ơn
+may mắn
+may mắn hơn
+may mắn nhất
+may mắn thay
+merriment
+miễn phí
+mong muốn
+mua được
+màu hồng
+màu sắc
+mát mẻ
+mãn nguyện
+mê hoặc
+mê mẩn
+mượt mà hơn
+mạch lạc
+mạnh
+mạnh mẽ
+mạnh mẽ hơn
+mạnh nhất
+mẫu mực
+mặc cả
+mặc khải
+mềm dẻo
+mềm mại
+mỉm cười
+mịn nhất
+mỏng hơn
+mối quan hệ
+một cách hăng hái
+một cách hồ hởi
+một cách sung sướng
+một cách thuyết phục
+mới lạ
+mở rộng
+mỡ
+xứng đáng
+ngay lập tức
+nghe có vẻ
+nghe rõ
+nghiêm trang
+nghỉ ngơi
+ngoan cường
+ngon lành
+ngoại giao
+ngoại lệ
+ngoại tình
+ngoạn
+ngoạn mục
+nguy cơ thấp
+nguy nga
+nguyên chất
+nguyên tắc
+nguyện vọng
+nguôi đi
+ngây ngất
+ngây thơ
+ngôi sao nhạc rock
+người chiến thắng
+người có ích
+người dùng có thể thay thế
+người giải quyết vấn đề
+người hâm mộ
+người hỗ trợ
+người ngưỡng mộ
+người sống sót
+người thích
+người thụ hưởng
+người tiết kiệm
+người yêu
+người đam mê
+người ủng hộ
+ngưỡng mộ
+ngạc nhiên
+ngắn gọn
+ngọn
+ngọt
+ngọt ngào
+ngụy biện
+nhanh
+nhanh chóng
+nhanh hơn
+nhanh nhất
+nhanh nhẹn
+nhiều
+nhiệt thành
+nhiệt tâm
+nhiệt tình
+nhà ái quốc
+nhân phẩm
+nhân từ
+nhân vật
+nhân đạo
+nhìn xa trông rộng
+như
+như anh em
+như nhau
+nhạc cụ
+nhạy bén
+nhạy cảm
+nhấn mạnh
+nhất quán
+nhất thời
+nhẹ dạ
+nhẹ hơn
+nhẹ nhàng
+nhẹ nhàng hơn
+nhịp độ nhanh
+nhọn
+những nụ cười
+niềm nở
+niềm đam mê
+nuôi
+nuôi dưỡng
+nuông chiều
+nâng
+nâng cao
+nâng cấp
+nóng bức
+nóng nhất
+năng khiếu
+năng lượng
+năng lực
+năng suất
+năng động
+nước bóng
+nạc
+nền tảng
+nịnh nọt
+nồng nhiệt
+nổi
+nổi bật
+nổi danh
+nổi tiếng
+nổi tiếng thế giới
+nỗ lực
+nỗi ám ảnh
+nới lỏng
+nụ cười
+nữ anh hùng
+overture
+pampers
+phao cứu sinh
+phi bạo lực
+phi thường
+phiêu lưu
+phong kiến
+phong phú
+phun ra
+phát sáng
+phát triển
+phát triển mạnh
+phát triển nhanh
+phát triển nhanh nhất
+phân
+phân biệt
+phép lạ
+phép màu
+phê duyệt
+phì nhiêu
+phô trương
+phúc lợi
+phương thuốc
+phước lành
+phải
+phản công
+phấn chấn
+phấn khởi
+phấn đấu
+phần thưởng
+phổ biến
+phục hưng
+phục hồi
+phức tạp
+quai hàm
+quan phòng
+quan trọng
+quan trọng nhất
+quyến rũ
+quyết đoán
+quyền lực
+quyền tối cao
+quyền tự do
+quyền tự quyết
+quá
+quá mức
+quán quân
+quét
+quí
+quý giá
+quản lý
+quản lý tốt
+râm ran
+rõ ràng
+rõ ràng hơn
+rạng ngời
+rạng rỡ
+rải rác
+rất nhiều
+rất thích
+rất vui
+rẻ nhất
+rộng hơn
+rộng rãi
+rụng trứng
+rực rỡ
+sang
+sang trọng
+sao
+say mê
+say sưa
+sinh lợi
+sinh thái
+sinh động
+siêng năng
+siêu
+siêu giòn
+siêu thị
+siêu thực
+siêu tốc
+slammin
+suy đồi
+sàng lọc
+sành điệu
+sáng
+sáng bóng
+sáng chói
+sáng hơn
+sáng nhất
+sáng suốt
+sáng tạo
+sâu sắc
+sôi nổi
+sôi động
+sùng đạo
+sạch hơn
+sạch nhất
+sạch sẽ
+sắc nét
+sắc nét hơn
+sắc nét nhất
+sắc sảo
+sắc đẹp
+vẻ đẹp
+sắp xếp hợp lý
+sẳn sàng
+sẵn lòng
+sẵn sàng
+sống động
+sốt sắng
+sở thích
+sức hút
+sững sờ
+sự bình tĩnh
+sự bảo vệ
+sự bền bỉ
+sự can đảm
+sự chân thành
+sự chấp thuận
+sự công bình
+sự dễ chịu
+sự dễ dàng
+sự giới thiệu
+sự gắn kết
+sự gắn kết với nhau
+sự hoàn hảo
+sự hài lòng
+sự hăng hái
+sự hưởng thụ
+sự khuyến khích
+sự khâm phục
+sự khôn ngoan
+sự kiên định
+sự kỳ diệu
+sự lành mạnh
+sự ngạc nhiên
+sự nhanh nhẹn
+sự nhạy bén
+sự phấn khích
+sự phồn thịnh
+sự quyết định
+sự sung sướng
+sự sung túc
+sự sống còn
+sự thuyên giảm
+sự thành công
+sự thánh thiện
+sự thân mật
+sự thân thiện
+sự thích thú
+sự thông minh
+sự thú vị
+sự thật
+sự trung thực
+sự tráng lệ
+sự tuyệt vời
+sự tôn cao
+sự tôn kính
+sự tôn trọng
+sự tự do
+sự tự tin
+sự vui mừng
+sự vĩ đại
+sự xuất hiện
+sự ám ảnh
+sự đóng góp
+sự đúng đắn
+sự đố kị
+sự ấm áp
+tha
+tha thiết
+thanh danh
+thanh lịch
+thanh lọc
+thanh thản
+thanh đạm
+thay thế
+theo cảm tính
+thi vị
+thiên hạ
+thiên thần
+thiên tài
+thiên đường
+thiên đỉnh
+thiết lập kỷ lục
+thiện chí
+thoải mái
+thu được
+thua kém
+thuyết phục
+thuê ngoài
+thuận lợi
+thuận tiện
+thuế
+thuốc lắc
+thành công
+thành thạo
+thành tích
+thành tựu
+thán phục
+thánh
+tháo vát
+thâm thúy
+thân mật
+thân thiện
+thân thiện với người dùng
+thân thiện với trẻ em
+thích
+thích hơn
+thích hợp
+thích hợp hơn
+thích nghi
+thích thú
+thôi miên
+thông minh
+thông minh hơn
+thông minh nhất
+thông suốt
+thông thoáng
+thông thạo
+thông tin tốt
+thù lao
+thú vị
+thơ mộng
+thơm
+thơm ngon
+thư giãn
+thương
+thương hiệu mới
+thương hại
+thương xót
+thương yêu
+thưởng thức
+thạc sĩ
+thấm nhuần
+thấm thía
+thấp thoáng
+thất tình
+thần thánh
+thần tượng
+thần tượng hóa
+thần đồng
+thận trọng
+thật
+thật thà
+thật đáng kinh ngạc
+thắng lợi
+thể loại
+thể thao
+thịnh vượng
+thọc cù lét
+thỏa mãn
+thỏa đáng
+thống trị
+thời trang
+thủ tướng
+thực chất
+thực tế
+tin cậy
+tin tưởng
+tinh chế
+tinh khôn
+tinh nghịch
+tinh thần
+tinh thần cao
+tinh thần đoàn kết
+tinh tế
+tinh vi
+tinh xảo
+tiêt kiệm năng lượng
+tiêu tan
+tiếp nhận
+tiếp sức
+tiếp thêm sinh lực
+tiết kiệm
+tiết kiệm chi phí
+tiết kiệm năng lượng
+tiền thưởng
+tiện
+tiện dụng
+tiện lợi
+topnotch
+toàn cảnh
+toàn diện
+trang nghiêm
+trang phục
+trao giải thưởng
+trao quyền
+tri ân
+triển vọng
+trong lành hơn
+trong suốt
+trong trẻo
+trung bình
+trung thành
+trung thực
+truyền cảm hứng
+tràn dịch
+tràn đầy
+tráng lệ
+trân trọng
+trên trời
+trêu ngươi
+trì hoãn
+trìu mến
+tròn trịa
+trơn
+trơn tru
+trưởng thành
+trấn an
+trẻ hóa
+trẻ trung
+trời cho
+trợ cấp
+trữ tình
+trực quan
+tuyệt diệu
+tuyệt quá
+tuyệt tác
+tuyệt vời
+tuyệt đẹp
+tuân thủ
+tuân thủ pháp luật
+tài giỏi
+tài hùng biện
+tài năng
+tái cấu trúc
+tán dương
+táo bạo
+tâm linh
+tâng bốc
+tình cảm
+tình cờ
+tình thương
+tích cực
+tích hợp
+tính dễ thương
+tính linh hoạt
+tính quyết đoán
+tóm lược
+tôn kính
+tôn vinh
+tăng
+tăng cường
+tăng giá
+tưng bừng
+tươi
+tươi nhất
+tươi tốt
+tương lai
+tương thích
+tượng
+tạo điều kiện
+tầm nhìn xa
+tầm thường
+tận hưởng
+tận tâm
+tỉ mỉ
+tỏ lòng tôn kính
+tỏa sáng
+tối cao
+tối quan trọng
+tối ưu
+tống tiền
+tốt
+tốt hơn
+tốt hơn so với dự kiến
+tốt lành
+tốt nhất
+tốt nhất là
+tốt đẹp
+tội lỗi
+từ thiện
+tự chủ
+tự do
+tự hài lòng
+tự hào
+tự phát
+tự tin
+tự trọng
+tự túc
+uy nghi
+uy tín
+uyên bác
+valor
+vang dội
+vang lên
+vinh dự
+vinh quang
+vui
+vui chơi
+vui lên
+vui lòng
+vui mừng
+vui mừng khôn xiết
+vui nhộn
+vui sướng
+vui tươi
+vui vẻ
+vàng
+vâng
+vô biên
+vô duyên
+vô giá
+vô hại
+vô hạn
+vô nhiễm
+vô song
+vô thưởng vô phạt
+vô tư
+vô tội
+vô điều kiện
+vô địch
+vô đối
+vùng đất mơ
+văn minh
+vĩ đại
+vĩ đại nhất
+vương giả
+vượt qua
+vượt quá
+vượt trội
+vượt xa
+vẫy gọi
+vận may
+vẻ vang
+vị cứu tinh
+vị tha
+vị trí tốt
+vừa lòng
+vững chắc
+vững chắc hơn
+whoa
+whooa
+whoooa
+woo
+wows
+xa hoa
+xa xỉ
+xin chúc mừng
+xinh đẹp
+xung quanh
+xuất sắc
+xuất thần
+xuất tinh
+xác nhận lại
+xác thực
+xách tay
+xóa
+xương sống
+xứng đáng
+xử lý
+yên bình
+yên tâm
+yên tĩnh
+yên tĩnh hơn
+yêu
+yêu dấu
+yêu nước
+yêu quý
+yêu thích
+ái lực
+áo ngực
+âm mưu
+âm thanh
+ân cần
+ân nhân
+ân sủng
+ân xá
+âu yếm
+ôm
+ăn mừng
+đa dạng
+đa mục đích
+đa năng
+đam mê
+đang bùng nổ
+điềm tĩnh
+điều chỉnh
+điều hướng
+điểm cộng
+điện khí
+điện thoại ngoài
+đoàn kết
+đàng hoàng
+đào
+đá quý
+đáng chú ý
+đáng ghen tị
+đáng giá
+đáng khen
+đáng khen ngợi
+đáng khích lệ
+đáng kinh ngạc
+đáng kính trọng
+đáng ngưỡng mộ
+đáng nhớ
+đáng tin
+đáng tin cậy
+đáng trách
+đáng trân trọng
+đáng yêu
+đánh bóng
+đánh bại
+đánh giá
+đánh giá cao
+đánh lừa
+đánh thức
+đánh vần
+đáp ứng
+đã dẫn
+đã giúp
+đã hứa
+đã làm việc
+đã thành công
+đã thích
+đã thắng
+đã vượt qua
+đã đạt được
+đòi lại
+đòn bẩy
+đúng
+đúng cách
+đúng giờ
+đĩnh đạc
+đơn giản
+đơn giản hóa
+đơn giản hơn
+đơn giản nhất
+đưa ngón cái lên
+biết đến nhiều hơn
+cải thiện
+giáo dục tốt
+hỗ trợ
+làm tốt
+nuôi dưỡng tốt
+thiết lập tốt
+đánh giá cao
+đón nhận
+đạo đức
+đạt yêu cầu
+đạt được
+đảm bảo
+đấu thầu
+đầu
+đầu óc
+đầy hứa hẹn
+đầy màu sắc
+đầy tham vọng
+đầy đủ
+đắc thắng
+đặc biệt
+đặc quyền
+đẹp
+đẹp hơn
+đẹp mắt
+đẹp như tranh vẽ
+đẹp nhất
+đẹp trai
+đẹp đẽ
+đề nghị
+đề thi
+đỉnh cao
+định mệnh
+đố kỵ
+đồng bào
+đồng cảm
+đổi mới
+đổi quà
+đổi tên
+độc đáo
+đột phá
+đủ
+đủ khả năng
+đủ điều kiện
+đức hạnh
+đức tin
+đứng đầu lớp
+đứng đắn
+nghiêm túc
+ơn trời
+ưa thích
+ưu
+ưu tú
+ưu việt
+ướp
+ảnh hưởng
+ấm cúng
+ấm hơn
+ấm lòng
+ấm áp
+ấn tượng
+ấp ủ
+ẩm
+ốc đảo
+ồ
+ồ lên
+ổn định
+ớt
+ủng hộ
+ủy thác
