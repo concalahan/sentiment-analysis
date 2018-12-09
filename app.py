@@ -45,49 +45,69 @@ def is_digit(n):
         return  False
 
 def get_afinn_word_in_five_words(wordArray, afinn):
-    # working
+    return_words = []
+    
     if(len(wordArray) == 0):
-        print("return cmnr")
         return None
 
+    # 5 words check
     word = ' '.join(wordArray)
-
-    print("hihihi " + str(word))
-
     if word in afinn:
-        print("hohohoho " + str(word))
-        return word
-    else:
-        get_afinn_word_in_five_words(wordArray[:-1], afinn)
+        return_words.append(word)
 
-        print("AAAAAAAAAAAAAAAAAAA")
+    # 4 words check
+    word = ' '.join(wordArray[:-1]) 
+    if word in afinn:
+        return_words.append(word)
 
-        get_afinn_word_in_five_words(wordArray[1:], afinn)
+    word = ' '.join(wordArray[1:]) 
+    if word in afinn:
+        return_words.append(word)
 
-        print("BBBBBBBBBBBBBBBBBBB")
+    # 3 words check 01 34 04
+    # keep 1 2 3
+    word = ' '.join(wordArray[1:4])
+    if word in afinn:
+        return_words.append(word)
 
-    # found = False
+    # keep 0 1 2
+    word = ' '.join(wordArray[2:5])
+    if word in afinn:
+        return_words.append(word)
 
-    # # execute until found
-    # while(not found):
-    #     word = ' '.join(wordArray)
+    # keep 2 3 4
+    word = ' '.join(wordArray[0:3])
+    if word in afinn:
+        return_words.append(word)    
 
-    #     # check current
-    #     if word in afinn:
-    #         return word
+    # 2 words check
+    # keep 0 1
+    word = ' '.join(wordArray[0:2])
+    if word in afinn:
+        return_words.append(word)
 
-    #     word = ' '.join(wordArray[:-1])
+    # keep 1 2
+    word = ' '.join(wordArray[1:3])
+    if word in afinn:
+        return_words.append(word)
 
-    #     # check exclude last index (rightest)
-    #     if word in afinn:
-    #         return word
+    # keep 2 3
+    word = ' '.join(wordArray[2:4])
+    if word in afinn:
+        return_words.append(word)
 
-    #     word = ' '.join(wordArray[1:])
+    # keep 3 4
+    word = ' '.join(wordArray[3:5])
+    if word in afinn:
+        return_words.append(word)
 
-    #     # check exclude first index (leftest)
-    #     if word in afinn:
-    #         return word
+    for word in wordArray:
+        if word in afinn:
+            return_words.append(word)
 
+    print(return_words)
+
+    return return_words
 
 def check(descripton):
     # positive/ negative
@@ -114,7 +134,7 @@ def check(descripton):
 
             afinn[split_line[0]] = split_line[1]
 
-    print(afinn["vô tình"])
+    #print(afinn["vô tình"])
 
     # polarity means emotions expressed in a sentence
     # how to calculate polarity? famous method is using bag of words.
@@ -136,20 +156,20 @@ def check(descripton):
             
             afinn_word = get_afinn_word_in_five_words(temp_word_array, afinn)
 
-            print("afinn_word " + str(afinn_word))
-
             if afinn_word is not None:
-                if(int(afinn[afinn_word]) > 0):
-                    positive.append(afinn_word)
-                elif(int(afinn[afinn_word]) < 0):
-                    negative.append(afinn_word)
+                for word in afinn_word:
+                    print("hohoho " + word)
 
-                score += int(afinn[afinn_word])
+                    if(int(afinn[word]) > 0):
+                        positive.append(word)
+                    elif(int(afinn[word]) < 0):
+                        negative.append(word)
+
+                    score += int(afinn[word])
 
             # set value again
             temp_count = 0
             temp_word_array = []
-
 
     comparative = score / len(words)
 
