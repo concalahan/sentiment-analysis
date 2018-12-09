@@ -166,7 +166,7 @@ người đẹp	3
 đẹp	3
 làm đẹp	3
 coi thường	-2
-	3yêu dấu 
+yêu dấu	3 
 lợi ích	2
 được hưởng lợi	2
 hưởng lợi	2
@@ -952,13 +952,11 @@ bị viêm	-2
 xâm phạm	-2
 tức giận	-2
 chọc tức	-2
-tức giận	-2
 ức chế	-1
 bị thương	-2
 chấn thương	-2
 bất công	-2
 đổi mới	1
-đổi mới	2
 điều tra	-2
 tò mò	2
 mất trí	-2
@@ -971,7 +969,6 @@ cảm hứng	2
 truyền cảm hứng	2
 truyền cảm hứng cho	2
 cảm hứng	2
-truyền cảm hứng cho	2
 truyền cảm hứng	3
 xúc phạm	-2
 lăng mạ	-2
@@ -1039,7 +1036,6 @@ biện minh	2
 quan tâm	1
 giết	-3
 bị giết	-3
-giết	-3
 giết chết	-3
 loại	2
 mẫu giáo	2
@@ -1100,12 +1096,10 @@ thấp nhất	-1
 trung thành	3
 lòng trung thành	3
 may mắn	3
-lugubrious	-2
 mất trí	-3
 kẻ mất trí	-3
 ẩn	-1
 ẩn nấp	-1
-ẩn	-1
 điên	-3
 điên cuồng	-3
 trang điểm	-1
@@ -1547,9 +1541,7 @@ cười	2
 mỉm cười	2
 sương khói	-2
 lén lút	-1
-snub	-2
 hắt xì	-2
-snows	-2
 tỉnh táo	1
 long trọng	-1
 rắn	2
@@ -1561,7 +1553,6 @@ giải quyết	1
 giải	1
 ảm đạm	-2
 một số loại	0
-con trai của một con chó cái	-5
 làm dịu	3
 nhẹ nhàng	3
 tinh vi	2
@@ -1579,7 +1570,6 @@ lấp lánh	3
 tinh thần	1
 tinh thần	2
 vô hồn	-2
-spiteite	-2
 lộng lẫy	3
 hoàn toàn	2
 quằn quại	-1
@@ -1636,7 +1626,6 @@ bị kẹt	-2
 choáng váng	-2
 cảnh quan tuyệt đẹp	4
 ngu ngốc	-2
-	2
 đáng kể	1
 thực chất	1
 lật đổ	-2
@@ -1782,7 +1771,6 @@ không ổn định	-2
 không thể ngăn cản	2
 không được hỗ trợ	-2
 không chắc chắn	-1
-	2chưa hoàn thành 
 không mong muốn	-2
 không xứng đáng	-2
 buồn bã	-2
@@ -1874,7 +1862,6 @@ vô giá trị	-2
 xứng đáng	2
 ồ	4
 wowow	4
-ồ	4
 phẫn nộ	-3
 xác tàu	-2
 sai	-2
