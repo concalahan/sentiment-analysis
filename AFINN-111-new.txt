@@ -97,8 +97,6 @@ kinh hoàng	-2
 xoa dịu	2
 hoan nghênh	2
 vỗ tay	2
-hoan nghênh	2
-vỗ tay	2
 đánh giá cao	2
 e ngại	-2
 phê duyệt	2
@@ -108,7 +106,6 @@ bắt giữ	-2
 bị bắt	-3
 bắt giữ	-2
 kiêu ngạo	-2
-ashame	-2
 xấu hổ	-2
 mông	-4
 ám sát	-3
@@ -276,9 +273,8 @@ gian lận	-3
 cổ vũ	2
 vui vẻ	2
 cổ vũ	2
-vui vẻ	-2
 chúc mừng	2
-vui vẻ	3
+vui vẻ	
 trân trọng	2
 ấp ủ	2
 trân trọng	2
@@ -1021,13 +1017,11 @@ số	2
 tham gia	1
 đùa	2
 truyện cười	2
-vui vẻ	2
+màu	2
 tháng	2
 niềm vui	3
 vui	3
-vui vẻ	3
 không vui	-3
-vui vẻ	3
 tưng bừng	3
 tăng vọt	-1
 công lý	2
@@ -1124,22 +1118,18 @@ u sầu	-2
 mối đe dọa	-2
 đe dọa	-2
 thương xót	2
-vui vẻ	3
 lộn xộn	-2
 rối	-2
 làm rối lên	-2
 phương pháp	2
 vô tâm	-2
 phép màu	4
-sinh	3
 vui vẻ	3
 hành vi sai lầm	-2
 hành vi sai	-2
 hành vi sai trái	-2
-hành vi sai lầm	-2
 nghịch ngợm	-1
 khốn khổ	-3
-khốn khổ	-2
 thông tin sai lệch	-2
 giải thích sai	-2
 gây hiểu lầm	-3
@@ -1151,7 +1141,6 @@ bỏ lỡ	-2
 thiếu	-2
 sai lầm	-2
 nhầm	-2
-sai lầm	-2
 nhầm lẫn	-2
 hiểu lầm	-2
 rên rỉ	-2
@@ -1162,9 +1151,7 @@ giả	-2
 mong muốn	-2
 độc quyền	-2
 ủ rũ	-1
-mope	-1
-moping	-1
-moron	-3
+thằng điên	-3
 mẹ	-5
 mẹ đẻ	-5
 thúc đẩy	1

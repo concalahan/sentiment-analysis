@@ -5,6 +5,7 @@ from flask import Flask
 from flask import request
 from flask import abort, redirect, url_for
 from flask import jsonify
+from flask_cors import CORS
 
 from analyzer import Analyzer
 import sys
@@ -15,6 +16,7 @@ from nltk.tokenize import TweetTokenizer
 from textblob import TextBlob
 
 app = Flask(__name__)
+CORS(app)
 
 # global variable
 max_word_tokenize = 5
@@ -28,7 +30,7 @@ def login():
     if request.method == 'POST':
         # get the data
         desription = request.get_json().get("description")
-        
+
         # perform sentiment analysis
         obj = check(desription)
 
@@ -52,6 +54,7 @@ def get_afinn_word_in_five_words(wordArray, afinn):
 
     # 5 words check
     word = ' '.join(wordArray)
+
     if word in afinn:
         return_words.append(word)
 
@@ -105,8 +108,6 @@ def get_afinn_word_in_five_words(wordArray, afinn):
         if word in afinn:
             return_words.append(word)
 
-    print(return_words)
-
     return return_words
 
 def check(descripton):
@@ -119,7 +120,7 @@ def check(descripton):
     score = 0
 
     # overall score/ length of total string
-    comparative = 0
+    comparative = 0.0
 
     # afinn dictionary
     afinn = {}
@@ -136,9 +137,13 @@ def check(descripton):
 
     #print(afinn["vô tình"])
 
+    print(descripton)
+
     # polarity means emotions expressed in a sentence
     # how to calculate polarity? famous method is using bag of words.
-    words = descripton.split()
+    words = descripton.split(" ")
+
+    print(words)
 
     if descripton == None:
         sys.exit("Error")
@@ -146,13 +151,14 @@ def check(descripton):
     temp_count = 0
     temp_word_array = []
     for word in words:
+        word = word.encode('utf-8')
         word = word.lower()
         temp_word_array.append(word)
         temp_count += 1
 
         # start perform sentiment analysis every 5 words
         if(temp_count == max_word_tokenize):
-            print("Checking... " + str(temp_word_array))
+            print("Checking... " + word)
             
             afinn_word = get_afinn_word_in_five_words(temp_word_array, afinn)
 
@@ -171,7 +177,10 @@ def check(descripton):
             temp_count = 0
             temp_word_array = []
 
-    comparative = score / len(words)
+    print(score)
+    print(len(words))
+
+    comparative = (float(score)) / float(len(words))
 
     if(comparative > 0):
         verdict = "POSITIVE"
@@ -183,7 +192,7 @@ def check(descripton):
     returnObj = {
         "verdict": verdict,
         "score": score,
-        "comparative": comparative,
+        "comparative": round(comparative,4),
         "positive": positive,
         "negative": negative
     }
